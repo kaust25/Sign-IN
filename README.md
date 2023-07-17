@@ -37,27 +37,15 @@ Note: Make sure to adjust the file paths in the code according to your system co
 
 ## Community Benefits
 
-Sign IN, the sign language detection application, brings several social benefits to the community, especially for individuals with hearing impairments or those who communicate using sign language. Here are some of the social benefits provided by Sign IN:
-
-### Inclusive Communication:
-
-Sign IN bridges the communication gap between individuals who use sign language and those who are not familiar with it. By translating sign language gestures into corresponding words or phrases, Sign IN enables effective communication between individuals with hearing impairments and the broader community.
+Sign IN, the sign language detection project, brings several social benefits to the community, especially for individuals with hearing impairments or those who communicate using sign language. Here are some of the social benefits provided by Sign IN:
 
 ### Independence and Empowerment:
 
 Sign IN empowers individuals with hearing impairments by providing them with a tool to express themselves independently. It reduces their reliance on interpreters or third-party assistance in various social settings, enabling them to communicate more confidently and assertively.
 
-### Accessibility to Information:
+### Inclusive Education and Employment Opportunities:
 
-With Sign IN, individuals with hearing impairments can access and comprehend digital content more easily. They can interact with online platforms, educational resources, and digital media by using sign language, expanding their opportunities for learning, social engagement, and entertainment.
-
-### Inclusive Education:
-
-Sign IN supports inclusive education by facilitating communication between deaf or hard-of-hearing students and teachers. It enables teachers to understand and respond effectively to students' sign language communication, fostering a more inclusive and supportive learning environment.
-
-### Employment Opportunities:
-
-By enhancing communication abilities, Sign IN improves employment opportunities for individuals with hearing impairments. It enables them to participate more actively in job interviews, meetings, and workplace interactions, thereby promoting equal access to employment and career advancement.
+Sign IN supports inclusive education by facilitating communication between deaf or hard-of-hearing students and teachers. It enables teachers to understand and respond effectively to students' sign language communication, fostering a more inclusive and supportive learning environment. By enhancing communication abilities, Sign IN improves employment opportunities for individuals with hearing impairments. It enables them to participate more actively in job interviews, meetings, and workplace interactions, thereby promoting equal access to employment and career advancement.
 
 ### Social Integration and Awareness:
 
