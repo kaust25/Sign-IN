@@ -65,4 +65,4 @@ Sign IN promotes social integration by fostering understanding and acceptance of
 
 By leveraging technology and deep learning, Sign IN contributes to creating a more inclusive and accessible society, where individuals with hearing impairments can actively participate, communicate, and be understood.
 
-Feel free to explore and modify the code to suit your requirements. Enjoy using Sign IN!
+Enjoy using Sign IN!
